@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\0.7.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5838e4092c53ad68e8d0b996d899133c6446b4af">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-fd7ca50fda02de1a450ac28df33354b030f5fa97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.digits.sdk.android\digits\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e566c8c448420d730e72e0964d4d334606720e60">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-198d2c9b5deb33d9a3919c49b655ab6daabebd6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2bd7d798032632ffdf320c0b10c44f67d4d76fdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-8da4cbeb219013a0fc539fdee5b8a90735595d5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="145ba6a0fca439b2280d1363753e7268e6a12e6f">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-f62c4073dde739fd95ac37dcffe131c120e1395e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\retrofit-1.6.1-901dc7585cf585aa942e2bbb5216ea75606fac1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ca562dfe312795be276130ced15da05478ac8a01">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-434e6fff97565a15d441753d0b81283390ad832d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0bb0df3bf333801406f32bdfba678bcbd38cb9ff">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-b3001f2424901efdf6cebd5828b28b9aac52216f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-9b493f44fc7f3e5496fb74bdc345dd28a2f80c70.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-80a85d33cc76e4cfb03dac21d92c5c25c9eff67a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0eb65cff39b836d160f09684b3143bbe455762ac">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-2d28b24fe4955f5ea409f67fe0f0a852e646e623.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\classes-df9b0d93efa60ba367ed404a0a7d44d25bcc078b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yoshiki\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Yoshiki\Desktop\FabricSample\app\build\intermediates\pre-dexed\debug\gson-2.2.4-ba5a354fafbfa0aefcb5f6356d942509c847f1a0.jar" />
+    </item>
+
+</items>
